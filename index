@@ -1,9 +1,63 @@
-<!DOCTYPEhtml>
-<html lang="en">
+ <!DOCTYPEhtml>
+ <html lang="en">
   <head>
       <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8">
     <title>Find Me</title>
+    <style>
+    .box {
+      position: Sticky;
+      top: 0px;
+      left: 1000px;
+      width: 200px;
+      height: 105px;
+      border: 5px solid midnightblue;
+      margin: 20px;
+      background-color: deepskyblue;
+      border-radius: 100px;}
+    .box3 {
+      position: relative;
+      top: 0px;
+      left: 0px;
+      width: 1200px;
+      height: 20px;
+      border: 2px dashed #DC143C;
+      margin: 20px;
+      background-color: #FF6700;
+      border-radius: 0px;}
+        .box2 {
+      position: absolute;
+      top: 1100px;
+      left: 400px;
+      width: 225px;
+      height: 105px;
+      border: 4px groove midnightblue;
+      margin: 200px;
+      background-color: #FF6700;
+      border-radius: 25px;}
+    .box4 {
+      position: fixed;
+      top: 15px;
+      left: 900px;
+      width: 40px;
+      height: 40px;
+      border: 2px dotted red;
+      margin: 20px;
+      background-color: lightyellow;
+      border-radius: 50px;}
+  .yippee {
+    color: #FF6700;}
+  .hello {
+    color: midnightblue;}
+  .cone {
+    color: peru}
+  .center {
+    text-align: center;}
+  .kakeru {
+   font-family: verdana;}
+  .spike {
+    color: #DC143C;}
+    </style>
 </head>
  <h1 class="kakeru spike center"; id="main-title">Welcome to Spike Hell</h1>
   
@@ -101,6 +155,7 @@
       </ol>
       </section>
     </main>
+
     <footer>
       <img src="https://pbs.twimg.com/media/Ez9_3B7XMAIqPw2.jpg" alt="Kakeru Swim" style="border: 2px groove midnightblue;">
       <p class="kakeru">&copy; Azrael Mauck, 2026</p>
