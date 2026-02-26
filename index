@@ -1,0 +1,109 @@
+<!DOCTYPEhtml>
+<html lang="en">
+  <head>
+      <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>Find Me</title>
+</head>
+ <h1 class="kakeru spike center"; id="main-title">Welcome to Spike Hell</h1>
+  
+    <div class="box2">
+         <h2 class="kakeru center hello">← Look at this little guy!</h2>
+  </div>
+  
+     <div class="box3">
+  </div>
+  
+  <div class="box">
+   <h2 class="kakeru center hello">Banana <br> ice cream</h2>
+  </div>
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rnABvp39S8PyI3dh-nyoxpKgP1HDO7w-3w&s" alt="Kakeru" style="border: 2px groove red;">
+  
+   <div class="box4">
+     <h1 class="kakeru center cone">❤︎</h1>
+  </div>
+<style>
+    h2 {
+  font-family: arial;
+  }
+</style>
+  
+  <header>
+
+    <nav>
+      <section id="top">
+      <a href="#about">About me</a>
+      <a href="#contact">Contact me?</a>
+    </nav>
+  </header>
+ 
+  <main>
+    <section id="about">
+     <h2 class="yippee center";>Person running this show</h2>
+      <p/>My name is Azrael Mauck and this site is the unholy lovechild of every interest I've ever had ever (I say that but it's literally just Ape Escape LMAO). Have fun looking at it ig. I use They/Them and It/Its pronouns. I like the family of mustelidae (they are my favorite animals of all time lowkey). I also really like Ape Escape (where all the pictures on this page are from). <a style="color:#FF6700;"href="https://en.wikipedia.org/wiki/Ape_Escape" target="_blank">Here's the Wikipedia page for the Ape Escape series</a>.</p>
+    </section>
+ 
+    <section id="contact">
+      <h2 class="yippee";>How to contact me</h2>
+      <form>
+        <label class="spike kakeru" for="name">Your name:</label><br>
+        <input type="text" id="name" name="name" style="border: 1px dashed red;"><br><br>
+ 
+        <label class="spike kakeru" for="email">Your email:</label><br>
+        <input type="email" id="email" name="email" style="border: 1px dashed red;"><br><br>
+        
+<label class="spike kakeru"> <label for="message">Message:</label><br>
+        <textarea id="message" name="message"style="border: 1px dashed red;"></textarea><br><br>
+ 
+        <button type="submit">And, send!</button>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Find me</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body style="background-color:#FAF884;">
+    <nav>
+      <h2><a href="https://www.linkedin.com/in/azrael-mauck-1b3a6b3a7/" target="_blank">My Linkedin</a>
+        </nav></h2>
+    <main>
+
+    <section id="about">
+      <h2 class="yippee center"/> The thing you're looking at</h2>
+      <p>This site exists as a test run for my web developing skills. I'm slathering it with Ape Escape stuff cause I like Ape Escape a very normal amount.</p>
+    </section>
+
+        <h2 class="yippee center"/>Goals that I have</h2>
+      <p>
+        I intend to refine my art based skills, both for my own enjoyement and the benefit of whatever career I make take later on in my life. These include video editing and web page design, as well as general drawing and music making.
+      </p>
+
+      <h2 class="yippee"/>Things I Do In My Spare Time</h2>
+      <ul>
+        <li>Pacing in circles</li>
+        <li>Sleep</li>
+        <li>Make music</li>
+        <li>Make visual art</li>
+      </ul>
+      <img src="https://pbs.twimg.com/media/FzGYbyHWwAAfAnO.png" alt="Kakeru Joy" style="border: 4px groove red;">
+
+          <section id="sites i really like">
+      <h2 class="yippee"/>Websites I really like</h2>
+      <ol>
+        <li>
+          <a href="https://frutigeraeroarchive.org/" target="_blank">Frutiger Aero Archive (lots of cool things here)</a>
+        </li>
+        <li>
+          <a href="https://www.genuinemustelids.org/" target="_blank">Genuine Mustelids (dispells a lot of weasel misinformation)</a>
+        </li>
+        <li>
+          <a href="https://sites.pitt.edu/~dash/folktexts.html" target="_blank">Folktexts (collection of various archived folktales)</a>
+        </li>
+      </ol>
+      </section>
+    </main>
+    <footer>
+      <img src="https://pbs.twimg.com/media/Ez9_3B7XMAIqPw2.jpg" alt="Kakeru Swim" style="border: 2px groove midnightblue;">
+      <p class="kakeru">&copy; Azrael Mauck, 2026</p>
+    </footer>
+  </body>
+</html>
