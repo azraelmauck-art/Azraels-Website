@@ -6,7 +6,8 @@
     <title>Find Me</title>
     <style>
 .box {
-  
+      display: flex;
+      justify-content: center;
       position: Sticky;
       top: 0px;
       left: 1000px;
