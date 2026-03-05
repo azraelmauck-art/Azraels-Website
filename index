@@ -5,58 +5,80 @@
     <meta charset="UTF-8">
     <title>Find Me</title>
     <style>
-    .box {
+.box {
+  
       position: Sticky;
       top: 0px;
       left: 1000px;
       width: 200px;
       height: 105px;
-      border: 5px solid midnightblue;
-      margin: 20px;
+      border: 6px solid midnightblue;
+      margin: 5px;
       background-color: deepskyblue;
-      border-radius: 100px;}
+      border-radius: 100px;
+
+    }
+    
     .box3 {
+
       position: relative;
       top: 0px;
       left: 0px;
       width: 1200px;
       height: 20px;
-      border: 2px dashed #DC143C;
-      margin: 20px;
+      border: 8px dashed #DC143C;
+      margin: 10px;
       background-color: #FF6700;
-      border-radius: 0px;}
+      border-radius: 0px;
+      padding: 10px;
+    }
+
         .box2 {
+
       position: absolute;
       top: 1100px;
       left: 400px;
       width: 225px;
       height: 105px;
-      border: 4px groove midnightblue;
+      border: 6px groove midnightblue;
       margin: 200px;
       background-color: #FF6700;
-      border-radius: 25px;}
+      border-radius: 25px;
+      padding: 30px;
+    }
+
     .box4 {
+
       position: fixed;
       top: 15px;
       left: 900px;
       width: 40px;
       height: 40px;
-      border: 2px dotted red;
+      border: 3px dotted red;
       margin: 20px;
       background-color: lightyellow;
-      border-radius: 50px;}
+      border-radius: 50px;
+      padding: 2px;
+    }
+
   .yippee {
-    color: #FF6700;}
+    color: #FF6700;
+  }
   .hello {
-    color: midnightblue;}
+    color: midnightblue;
+  }
   .cone {
-    color: peru}
+    color: peru
+  }
   .center {
-    text-align: center;}
+    text-align: center;
+  }
   .kakeru {
-   font-family: verdana;}
+   font-family: verdana;
+  }
   .spike {
-    color: #DC143C;}
+    color: #DC143C;
+  }
     </style>
 </head>
  <h1 class="kakeru spike center"; id="main-title">Welcome to Spike Heck</h1>
